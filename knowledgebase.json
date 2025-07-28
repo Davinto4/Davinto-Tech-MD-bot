@@ -1,0 +1,28 @@
+[
+  {
+    "question": "how do i contact davintotech",
+    "variations": [
+      "how can i reach davintotech",
+      "give me your contact info",
+      "how do i message davintotech",
+      "contact details please",
+      "can i talk to davintotech directly",
+      "davinto tech email",
+      // … ~1000 variations
+    ],
+    "reply": "You can contact us at contact@davinto.tech or WhatsApp directly."
+  },
+  {
+    "question": "do you build websites",
+    "variations": [
+      "do you design websites",
+      "can you make a website for me",
+      "i want to build a website",
+      "web development service",
+      "website design help",
+      // … ~1000 variations
+    ],
+    "reply": "Yes! We build clean, responsive websites using modern tools 🌐."
+  }
+  // ...other intents similarly expanded
+]
